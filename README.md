@@ -111,8 +111,4 @@ Tengo experiencia en el diseño de interfaces, experiencia de usuarios, Adobe Ph
 - [Instagram](https://www.instagram.com/guillemrubiovaron)
 
 
-### 📈 GitHub Stats
-
-[![GitHub Stats](#)](#)
-
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y proyectos.
