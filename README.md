@@ -103,7 +103,7 @@ Tengo experiencia en el diseño de interfaces, experiencia de usuarios, Adobe Ph
 
 ### 🌐 Mis Sitios
 
-- 🥷🏻 Perfil con mi experiencia profesional: [guillemRubioVaron.com]([https://guillemRubioVaron.com/](https://portfolio-79tu83me1-guillems-projects-43ca9e2f.vercel.app/)) (En Construcción, Disponible en 2024)
+- 🥷🏻 Perfil con mi experiencia profesional: [guillemRubioVaron.com](https://portfolio-79tu83me1-guillems-projects-43ca9e2f.vercel.app/) (En Construcción, Disponible en 2024)
 
 ### 📊 Redes Sociales
 
